@@ -1,7 +1,7 @@
 import openpyxl as oxl
 from openpyxl import load_workbook 
 
-file_name = "C:\\Users\\ajifry\\Documents\\x.xlsx"
+file_name = "C:\\xxx\\xxxxx\\xxxx\\x.xlsx"
 #load the workbook
 
 wb = load_workbook(file_name)
